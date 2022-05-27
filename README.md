@@ -7,7 +7,7 @@ NodeMCU 1 Button Internet Clock built using Arduino IDE
  * DHT11 Temperature & Humidity Sensor
 
 ## Features
-Date, time, temperature and humity are displayed on a 2 line LCD.
+Date, time, temperature and humidity are displayed on a 2 line LCD.
 
 Single button operation, used to start WPS.
 
